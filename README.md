@@ -39,6 +39,45 @@ Details not to show
 **Flowchart**
 
 ## Steps to Run (local) + requirements.txt
+
+**Prerequisites**
+
+- python 3.8+
+- a terminal or command prompt
+
+1. clone repository
+
+  git clone https://github.com/your-username/merge-sort-visualizer.git
+cd merge-sort-visualizer
+
+2. Setup Virtual Environment
+
+   windows:
+
+   python -m venv venv
+   
+   venv\Scripts\activate
+
+   mac/linux:
+
+   python3 -m venv venv
+   
+   source venv/bin/activate
+
+4. install dependencies
+
+   pip install -r requirements.txt
+
+6. launch the app
+
+   python app.py
+
+8. view the app
+
+   After running the command, the terminal will display a local URL:
+
+   Open this link in your web browser to start the interactive sorting animation.
+
 ## Hugging Face Link
 ## Testing (what you tried + edge cases)
 ## Author & Acknowledgment (sources + AI use, if any)
