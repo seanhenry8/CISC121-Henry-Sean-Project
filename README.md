@@ -41,6 +41,8 @@ Details not to show
 
 **Flowchart**
 
+<img width="855" height="1958" alt="IMG_0219" src="https://github.com/user-attachments/assets/06cc5ccb-df82-43f3-bb80-6deccf700d0d" />
+
 ## Steps to Run (local) + requirements.txt
 
 **Prerequisites**
@@ -98,6 +100,8 @@ Result: all aplicants sorted correctly. Final board turned green
 
 screenshot:
 
+<img width="1267" height="658" alt="TESTCASE1" src="https://github.com/user-attachments/assets/f0fc47e8-f04b-4889-9ad9-bc0397360a62" />
+
 **test case 2: invalid input**
 
  input:
@@ -107,5 +111,7 @@ screenshot:
  result: Error: Please use format 'Name, GPA, Vol, Essay' per line. forces you to input using the proper format
 
  screenshot:
+
+ <img width="1276" height="597" alt="TESTCASE2" src="https://github.com/user-attachments/assets/c30e436b-467a-4627-9e50-96e49305fcd2" />
 
 ## Author & Acknowledgment (sources + AI use, if any)
