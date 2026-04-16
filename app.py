@@ -37,11 +37,11 @@ def merge_sort_animated(applicants):
 
     arr = copy.deepcopy(applicants)
     
-    def sort_recursive(start, end):
+    def sort_recursive(start, end): # base case of list length 1
         if end - start <= 1:
             return
         
-        mid = (start + end) // 2
+        mid = (start + end) // 2 #split list in half
         yield from sort_recursive(start, mid)
         yield from sort_recursive(mid, end)
         
