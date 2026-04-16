@@ -1,4 +1,4 @@
-# CISC101-Henry-Sean-Project
+# CISC121-Henry-Sean-Project
 ## Chosen Problem (1-2 sentences)
 for this project I chose the scholarship shortlist problem
 ## Chosen Algorithm (name + why it fits)
